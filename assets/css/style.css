@@ -1,11 +1,12 @@
 
-
-
-
-
+h5 {
+    text-align: left;
+    font-size: small;
+}
 
 #forecast-cards {
     background-color: rgba(0, 169, 225, 0.724);
     color: white;
 }
+
 
